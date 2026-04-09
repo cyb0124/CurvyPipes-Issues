@@ -239,3 +239,5 @@
   * Fixed items entering transparent item pipes that are partially outside render distance causing client hang.
 - 1.14.2 (2026-04-04)
   * [1.12.2] Fixed traveling items being rendered twice.
+- 1.15.0 (2026-04-09)
+  * Added CC: Tweaked (ComputerCraft) integration (curvy networking cable).

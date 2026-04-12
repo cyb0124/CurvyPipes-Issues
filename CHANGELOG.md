@@ -241,3 +241,5 @@
   * [1.12.2] Fixed traveling items being rendered twice.
 - 1.15.0 (2026-04-09)
   * Added CC: Tweaked (ComputerCraft) integration (curvy networking cable).
+- 1.15.1 (2026-04-12)
+  * [1.12.2] Fixed redstone cable not powering opaque blocks when FluidLoggedAPI is installed.

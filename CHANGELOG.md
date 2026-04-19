@@ -243,3 +243,5 @@
   * Added CC: Tweaked (ComputerCraft) integration (curvy networking cable).
 - 1.15.1 (2026-04-12)
   * [1.12.2] Fixed redstone cable not powering opaque blocks when FluidLoggedAPI is installed.
+- 1.15.2 (2026-04-19)
+  * [1.21.1] Fixed crash on startup when Sable is installed.

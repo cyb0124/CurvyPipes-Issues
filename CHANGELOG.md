@@ -247,3 +247,6 @@
   * [1.21.1] Fixed crash on startup when Sable is installed.
 - 1.15.3 (2026-05-24)
   * [1.21.1] Fixed redstone cable not powering devices when "Drive By Wire" is installed.
+- **Ported to 26.1.2** (2026-06-25)
+  * Including integration with AE2 and CC, and compat with JEI and REI.
+  * Iris shadow isn't working yet.

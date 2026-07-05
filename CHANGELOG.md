@@ -250,3 +250,5 @@
 - **Ported to 26.1.2** (2026-06-25)
   * Including integration with AE2 and CC, and compat with JEI and REI.
   * Iris shadow isn't working yet.
+- 1.15.4 (2026-07-05)
+  * [1.21.1] Added the "no_overlap" block tag for restricting pipe placements.

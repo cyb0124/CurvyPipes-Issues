@@ -254,3 +254,5 @@
   * [1.21.1] Added the "no_overlap" block tag for restricting pipe placements.
 - 1.15.5 (2026-07-05)
   * Fixed crash when running on 64k-page aarch64 OS.
+- 1.15.6 (2026-08-26)
+  * [1.18.2] Fixed crash when the "Vault Mod" destroys levels.

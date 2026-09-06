@@ -256,3 +256,5 @@
   * Fixed crash when running on 64k-page aarch64 OS.
 - 1.15.6 (2026-08-26)
   * [1.18.2] Fixed crash when the "Vault Mod" destroys levels.
+- 1.15.7 (2026-09-05)
+  * [1.16.5] Fixed crash on start on dedicated server.

@@ -258,3 +258,5 @@
   * [1.18.2] Fixed crash when the "Vault Mod" destroys levels.
 - 1.15.7 (2026-09-05)
   * [1.16.5] Fixed crash on start on dedicated server.
+- 1.15.8 (2026-09-06)
+  * Fix fluid tooltip rendering crashes on newer JEI version.

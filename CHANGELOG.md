@@ -260,3 +260,5 @@
   * [1.16.5] Fixed crash on start on dedicated server.
 - 1.15.8 (2026-09-06)
   * Fix fluid tooltip rendering crashes on newer JEI version.
+- 1.15.9 (2026-09-07)
+  * [1.7.10] Fixed most GT compat pipes missing textures since GT5u 5.09.54.12.
